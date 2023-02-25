@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-Hello! I am a Designer and Software Developer goal is to study Science, Techonlogy, Philosophy, Art, and Design. This portfolip categorizes my Computer Science and Programming projects.
+Hello! I am a Designer and Software Developer. I study Science, Techonlogy, Philosophy, Art, and Design. This portfolip categorizes my Computer Science and Programming projects.
 
 ## Projects
 
