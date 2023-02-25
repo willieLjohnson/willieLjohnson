@@ -1,20 +1,17 @@
-# PORTFOLIO
+# Developer Portfolio
 
-Hello everyone, I am a Software Developer experienced in application and game development, with a passion for computers, art, and design. My goal is to become a polymath by studying STEM, Philosophy, Art, and Design.
+Hello! I am a Designer and Software Developer goal is to study Science, Techonlogy, Philosophy, Art, and Design. This portfolip categorizes my Computer Science and Programming projects.
 
-## PROJECTS
+## Projects
 
-— willieliwa.com NextJS, TypeScript | Web App, Blog
+- [willieliwa.com](https://willieliwa.com/) NextJS, TypeScript | Web App, Blog
 JAN 2022 — PRESENT
-
-— Duckie Must Win Godot, GDScript | Web & iOS Game
-JAN 2023 — FEB 2023
-
-— WAVE Game Godot, GDScript |Cross-platform Game
+- [WAVE Game](https://willieljohnson.itch.io/wave-shooter) Godot, GDScript |Cross-platform Game
 JUN 2020 — JUL 2021
-
-— Surge Game Unity3D, C# | iOS & Android Game 
+- [Surge Game](https://play.google.com/store/apps/details?id=com.willynillygames.surge&hl=en&gl=US&pli=1) Unity3D, C# | iOS & Android Game 
  APR 2017 — FEB 2018
  
-— Vybes App Full Stack Swift & Rails | iOS App
-MAR 2018 — APR 2018
+ ## Prototypes
+ 
+ - [PYGG Game Library](https://github.com/willieLjohnson/pygg)
+ - [Locus(t)](https://github.com/willieLjohnson/locus)
